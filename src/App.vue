@@ -1,6 +1,8 @@
 <template>
   <div id="app">
-    <h1 style="text-align:center">Quill 自定义样式+扩展</h1>
+    <h1 style="text-align:center">
+      Quill 自定义样式+扩展（{{ new Date() }}）修改
+    </h1>
     <router-view />
   </div>
 </template>
