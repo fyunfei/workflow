@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <h1 style="text-align:center">
-      Quill 自定义样式+扩展（{{ new Date() }}）修改
+      20201209修改 Quill 自定义样式+扩展（{{ new Date() }}）修改
     </h1>
     <router-view />
   </div>
